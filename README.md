@@ -1,14 +1,23 @@
 # Youtube-Thumbnail-Saver
 
 How to use
-https://marshall-ku.github.io/Youtube-Thumbnail-Saver/
-Paste Youtube video's url or video's ID
-Click "Export" button
+
+1. https://marshall-ku.github.io/Youtube-Thumbnail-Saver/
+
+2. Paste Youtube video's url or video's ID
+
+3. Click "Export" button
+
 Save JPG Image
 
-Click "Download" button
-Right click on the image and save
+
+4. Click "Download" button
+
+5. Right click on the image and save
+
 Save PNG Image
 
-Right click the image
-Click "Save image as..."
+
+4. Right click the image
+
+5. Click "Save image as..."
